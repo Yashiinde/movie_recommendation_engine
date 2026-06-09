@@ -59,5 +59,4 @@ Cosine Similarity
 Recommendation Systems
 
 📸 Application Preview
-![Home Page](<img width="1904" height="973" alt="Image" src="https://github.com/user-attachments/assets/01612634-faf7-4966-bd54-656d431f3419" />)
-![Recommendation Output](screenshot2.png)
+<img width="1904" height="973" alt="Image" src="https://github.com/user-attachments/assets/01612634-faf7-4966-bd54-656d431f3419" />
