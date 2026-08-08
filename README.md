@@ -60,3 +60,6 @@ Recommendation Systems
 
 📸 Application Preview
 <img width="1904" height="973" alt="Image" src="https://github.com/user-attachments/assets/01612634-faf7-4966-bd54-656d431f3419" />
+
+After Recommendation: 
+<img width="1917" height="900" alt="Image" src="https://github.com/user-attachments/assets/bb5b779a-511d-414d-bfea-c5fcecd1f8ba" />
